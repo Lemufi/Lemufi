@@ -30,6 +30,6 @@ Je suis un petit développeur indépendant toujours en formation, j'aime aussi p
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lemufi&show_icons=true&theme=gruvbox)
+![Lemufi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lemufi&show_icons=true&theme=gruvbox)
 
 [youtube]: https://www.youtube.com/channel/UC8vpmjI3O3A5oBi7i-2fGuw
