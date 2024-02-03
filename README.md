@@ -2,7 +2,7 @@
 
 **`Développeur indépendant (Developer/Creator/VideoMaker)`**
 
-Je suis un petit développeur indépendant toujours en formation, j'aime aussi parfois créer des vidéos, j'ai un site web "lemufi.fr" contenant tous mes projets réalisés. Je code principalement en C# mais maîtrise aussi bien d'autres langages objets. Je suis curieux et essaie d'aller au bout des choses le plus souvent possible (sinon ça me frustre). Pour finir je dirais que la vie est belle sauf quand elle est moche, mais c'est rarement le cas donc tant mieux !
+Je suis un petit développeur indépendant toujours en formation, j'aime aussi parfois créer des vidéos, j'ai un site web "[Lemufi.fr]" contenant tous mes projets réalisés. Je code principalement en C# mais maîtrise aussi bien d'autres langages objets. Je suis curieux et essaie d'aller au bout des choses le plus souvent possible (sinon ça me frustre). Pour finir je dirais que la vie est belle sauf quand elle est moche, mais c'est rarement le cas donc tant mieux !
 
 ---
 
@@ -28,4 +28,4 @@ Je suis un petit développeur indépendant toujours en formation, j'aime aussi p
 
 ![Lemufi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lemufi&show_icons=true&theme=ambient_gradient&locale=fr)
 
-[youtube]: https://www.youtube.com/channel/UC8vpmjI3O3A5oBi7i-2fGuw
+[Lemufi.fr]: https://lemufi.fr
