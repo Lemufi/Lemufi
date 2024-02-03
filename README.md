@@ -4,12 +4,6 @@
 
 Je suis un petit développeur indépendant toujours en formation, j'aime aussi parfois créer des vidéos, j'ai une chaîne principale sans contenu "[Lemufi][youtube]" mais il se pourrait bien que je mette quelque chose dessus un jour. Je code principalement en C# mais maîtrise aussi bien d'autres langages objets. Je suis curieux et essaie d'aller au bout des choses le plus souvent possible (sinon ça me frustre). Pour finir je dirais que la vie est belle sauf quand elle est moche, mais c'est rarement le cas donc tant mieux !
 
-   <p align="left">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Lemufi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Lemufi?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Lemufi?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-
 ---
 
 <!-- Manny Joubert -->
