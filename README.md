@@ -22,10 +22,4 @@ Je suis un petit développeur indépendant toujours en formation, j'aime aussi p
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <br />
 
-#
-
-### 📊 Stats
-
-![Lemufi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lemufi&show_icons=true&theme=ambient_gradient&locale=fr)
-
 [Lemufi.fr]: https://lemufi.fr
